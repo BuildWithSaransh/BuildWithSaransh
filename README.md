@@ -1,8 +1,8 @@
 # 💫 About Me:
 I’m Currently Studying CSAI <br>
-My Dream Is to Be a Software Developer At The Firms Like Google, Apple, Microsoft ,ect.
-Where I Can Contribute With My Skills To a Large Number of users.
-And All the Tech Stack Listed Below are my Targets Which I will Master In My College Days.
+My Dream Is to Be a Software Developer At The Firms Like Google, Apple, Microsoft ,ect. <br>
+Where I Can Contribute With My Skills To a Large Number of users.<br>
+And All the Tech Stack Listed Below are my Targets Which I will Master In My College Days.<br>
 
 
 
